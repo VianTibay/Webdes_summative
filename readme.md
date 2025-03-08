@@ -9,11 +9,11 @@
     <img src="./assets/img/sh.gif" alt="Rotov" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Depende sa gawa to par</h3>
+  <h3 align="center">AWD_Summatives </h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  <!-- Short Description. (Optional) -->
+ IT0063 - Advance Web Design
 </div>
 
 <br />
@@ -59,11 +59,7 @@
 <!-- The following are just sample -->
 The main goal of my website is provide a 2 features
 
-Guiding Question:
-- who will benefit most from project?
-- What specific issues or challenges are addressed?
-- What is the structure of the codebase (e.g., folders, modules, components)?
-- Are there specific frameworks or libraries that the project relies on?
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -77,7 +73,7 @@ Guiding Question:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-## Rules, Practices and Principles
+<!-- ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
 2. Do not rename any .html files; always use `index.html` as the filename.
 3. Place Files in their respective folders.
@@ -86,7 +82,7 @@ Guiding Question:
    - ex.: buttonAnimatedStyle.css
 5. Use only `External CSS`.
 6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
-7. File Structure to follow below.
+7. File Structure to follow below. -->
 
 ```
 WD-ProjectName
@@ -113,7 +109,7 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
+<!-- TODO: Add References
 | Title | Purpose | Link |
 |-|-|-|
-| Pinag kuhanan mo |Anong purpose mo bat mo siya kinuha | link mo |
+| Pinag kuhanan mo |Anong purpose mo bat mo siya kinuha | link mo | -->
