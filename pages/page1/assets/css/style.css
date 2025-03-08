@@ -1,0 +1,59 @@
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    background-image: radial-gradient(white 1px, transparent 1px),
+                      radial-gradient(white 1px, transparent 1px);
+    background-size: 2px 2px, 2px 2px;
+    background-position: 0 0, 10px 10px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image:url(./img/icegif-626.gif);
+    .container {
+        text-align: center;
+
+        h1 {
+            margin-bottom: 20px;
+            color: #fff;
+        }
+
+        .buttons {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+
+            button {
+                padding: 10px 20px;
+                border: none;
+                background-color: #d6c90f;
+                color: #fff;
+                cursor: pointer;
+                border-radius: 5px;
+                transition: background-color 0.3s ease;
+
+                &:hover {
+                    background-color: #0c53ee;
+                }
+            }
+        }
+
+        .box {
+            width: 200px;
+            height: 200px;
+            background-color: #4CAF50;
+            margin: 20px auto; /* Centers the box */
+            opacity: 0;
+            transform: translateY(-20px);
+            transition: all 0.5s ease;
+
+            &.active {
+                opacity: 1;
+                transform: translateY(100px);
+                background-color: #ff6347;
+            }
+        }
+    }
+}
